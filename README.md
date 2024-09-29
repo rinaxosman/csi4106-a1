@@ -1,6 +1,6 @@
-# Dermatology Disease Classification Assignment
-Name: Rina Osman
-Student Number: 300222206
+# CSI 4106 - Assignment 1 (data prep)
+- Name: Rina Osman
+- Student Number: 300222206
 
 ## Objective
 - This assignment aims to classify different types of erythemato-squamous diseases using a dataset containing clinical and histopathological features.
